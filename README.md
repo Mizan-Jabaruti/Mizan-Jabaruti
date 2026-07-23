@@ -8,8 +8,8 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 * **IIIF & Spatial Annotation:** Structuring IIIF v3 manifests and W3C Web Annotations for side-by-side manuscript-to-transcription analysis.
 
 ## Current Research Focus
-**Digital Frameworks for Classical Arabic Lexicography & Technical Texts**  
-Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph for historical Arabic philosophical and lexicographical treatises (Corpus Jabirianum).
+**Semantic Knowledge Representation for Classical Arabic Technical & Esoteric Texts**  
+Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph to model specialized esoteric, alchemical, and natural philosophical vocabularies in historical Arabic treatises (Corpus Jabirianum).
 
 ## Tech Stack & Standards
-`TEI-XML` · `CIDOC-CRM` · `IIIF v3` · `Python (rdflib/lxml)` · `SPARQL` · `Protégé` · `oXygen XML`
+`TEI-XML` · `CIDOC-CRM` · `SKOS/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `RELAX NG` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
