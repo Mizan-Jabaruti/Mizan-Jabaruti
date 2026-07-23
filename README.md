@@ -1,6 +1,6 @@
 # Digital Humanities & Semantic Web Research
 
-Digital Humanities researcher, librarian, and archivist specializing in classical Arabic philology, TEI-XML documentary encoding, and Semantic Web knowledge representation. My work bridges material manuscript culture, information architecture, and computational ontology engineering to model historical texts and Linked Open Data networks.
+Digital Humanities researcher, librarian, and archivist specializing in classical Arabic philology, TEI-XML documentary encoding, and Semantic Web knowledge representation. My work bridges material manuscript culture, information architecture, and computational ontology engineering to model specialized historical vocabularies and material texts as interoperable Linked Open Data.
 
 ## Research Focus & Methodologies
 * **Digital Philology:** TEI-XML documentary editing, bilingual parallel alignment, and text-critical apparatus modeling for classical Arabic treatises.
