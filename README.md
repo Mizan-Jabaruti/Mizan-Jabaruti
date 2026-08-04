@@ -12,4 +12,4 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph to model specialized esoteric, alchemical, and natural philosophical vocabularies in historical Arabic treatises (Corpus Jabirianum).
 
 ## Tech Stack & Standards
-`TEI-XML` · `CIDOC-CRM` · `SKOS/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `RELAX NG` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
+`TEI-XML` · `CIDOC-CRM` · `SKOS/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
