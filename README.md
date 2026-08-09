@@ -9,7 +9,7 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 
 ## Current Research Focus
 **Semantic Knowledge Representation for Classical Arabic Technical & Esoteric Texts**  
-Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph to model specialized esoteric, alchemical, and natural philosophical vocabularies in historical Arabic treatises (Corpus Jabirianum).
+Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph to formalize the specialized lexicons and native epistemic frameworks of historical Arabic alchemical treatises (Corpus Jabirianum).
 
 ## Tech Stack & Standards
 `TEI-XML` · `CIDOC-CRM` · `RDF/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
