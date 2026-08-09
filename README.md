@@ -1,10 +1,10 @@
 # Digital Humanities & Semantic Web Research
 
-Digital Humanities researcher, librarian, and archivist specializing in classical Arabic philology, TEI-XML documentary encoding, and Semantic Web knowledge representation. My work bridges material manuscript culture, information architecture, and computational ontology engineering to model specialized historical vocabularies and material texts as interoperable Linked Open Data.
+Digital Humanities researcher, librarian, and archivist specializing in classical Arabic philology, TEI-XML documentary encoding, and Semantic Web knowledge representation. My work bridges material manuscript culture, information architecture, and computational ontology engineering to model specialized historical epistemic frameworks and material texts as interoperable Linked Open Data.
 
 ## Research Focus & Methodologies
 * **Digital Philology:** TEI-XML documentary editing, bilingual parallel alignment, and text-critical apparatus modeling for classical Arabic treatises.
-* **Knowledge Graphs & Ontologies:** Semantic representation of historical technical terms using CIDOC-CRM, SKOS vocabularies, and OWL in Protégé.
+* **Knowledge Graphs & Ontologies:** Semantic representation of historical technical terms using CIDOC-CRM and OWL in Protégé.
 * **IIIF & Spatial Annotation:** Structuring IIIF v3 manifests and W3C Web Annotations for side-by-side manuscript-to-transcription analysis.
 
 ## Current Research Focus
@@ -12,4 +12,4 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology graph to model specialized esoteric, alchemical, and natural philosophical vocabularies in historical Arabic treatises (Corpus Jabirianum).
 
 ## Tech Stack & Standards
-`TEI-XML` · `CIDOC-CRM` · `SKOS/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
+`TEI-XML` · `CIDOC-CRM` · `RDF/OWL` · `IIIF v3` · `JSON-LD` · `Python (rdflib/lxml)` · `SPARQL` · `Protégé` · `Git / GitHub Actions` · `Zenodo (DOI)` · `Omeka S`
