@@ -4,7 +4,7 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 
 ## Research Focus & Methodologies
 * **Digital Philology:** TEI-XML documentary editing, bilingual parallel alignment, and text-critical apparatus modeling for classical Arabic treatises.
-* **Knowledge Graphs & Ontologies:** Semantic representation of historic technical terms using CIDOC-CRM and OWL in Protégé.
+* **Knowledge Graphs & Ontologies:** Ontological modeling of historical epistemic lexicons and natural philosophical structures using CIDOC-CRM and OWL.
 * **IIIF & Spatial Annotation:** Structuring IIIF v3 manifests and W3C Web Annotations for side-by-side manuscript-to-transcription analysis.
 
 ## Current Research Focus
