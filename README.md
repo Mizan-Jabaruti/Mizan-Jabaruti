@@ -12,4 +12,4 @@ Digital Humanities researcher, librarian, and archivist specializing in classica
 Developing a machine-readable TEI-XML framework, IIIF annotation pipeline, and CIDOC-CRM ontology to formalize the epistemic lexicons and natural philosophical structures of the Corpus Jabirianum.
 
 ## Tech Stack & Standards
-`TEI-XML` · `XPath 3.1` · `oXygen XML Editor` · `CIDOC-CRM` · `RDF/OWL` · `WADM` · `IIIF v3` · `Mirador` · `JSON-LD` · `Python (rdflib/lxml)` · `CAMEL Tools` · `SPARQL` · `Protégé` · `Git / GitHub Actions` · `Zenodo` · `Omeka S`
+`TEI-XML` · `XPath 3.1` · `oXygen XML Editor` · `CIDOC-CRM` · `RDF/OWL` · `WADM` · `IIIF v3` · `Mirador` · `JSON-LD` · `Python (rdflib/lxml)` · `CAMEL Tools` · `SPARQL` · `Apache Jena Fuseki` · `Protégé` · `Git / GitHub Actions` · `Zenodo` · `Omeka S`
